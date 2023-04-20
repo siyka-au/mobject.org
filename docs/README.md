@@ -1,6 +1,5 @@
-<p align="center">
-  <img width="460" height="300" src="./images/logo.svg">
-</p>
+![mobject logo](./images/logo-dark.svg#gh-dark-mode-only)
+![mobject logo](./images/logo-light.svg#gh-light-mode-only)
 
 > A framework and guide for writing object oriented programs in structured text.
 

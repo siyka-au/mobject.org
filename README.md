@@ -1,5 +1,5 @@
-![logo-light][]
-![logo-dark][]
+![logo-light]()
+![logo-dark]()
 
 ## What is mobject?
 

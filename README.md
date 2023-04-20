@@ -1,5 +1,5 @@
-![logo-light]()
-![logo-dark]()
+![mobject logo][logo-light]
+![mobject logo][logo-dark]
 
 ## What is mobject?
 
@@ -53,7 +53,6 @@ Mobject has been created for TwinCAT. Mobject uses reflection, TwinCAT Pragmas a
 ## Coding style and convention
 
 Mobject follows the styling convention found [here](https://benhar-dev.github.io/coding-convention/#/)
-
 
 [logo-light]: ./images/logo-light.svg#gh-light-mode-only width=460px
 [logo-dark]: ./images/logo-dark.svg#gh-dark-mode-only width=460px

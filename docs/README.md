@@ -1,5 +1,5 @@
-![logo-light](./images/logo-light.svg#gh-light-mode-only width=460px)
-![logo-dark](./images/logo-dark.svg#gh-dark-mode-only width=460px)
+![logo-light](./images/logo-light.svg#gh-light-mode-only)
+![logo-dark](./images/logo-dark.svg#gh-dark-mode-only)
 
 > A framework and guide for writing object oriented programs in structured text.
 

@@ -1,5 +1,5 @@
-![logo-light]
-![logo-dark]
+![logo-light][]
+![logo-dark][]
 
 > A framework and guide for writing object oriented programs in structured text.
 
